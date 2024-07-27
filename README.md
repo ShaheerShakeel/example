@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple HTML Page</title>
 </head>
 <body>
     <header>
@@ -12,7 +11,7 @@
     <div class="content">
         <div class="box">
             <h2>About This Page</h2>
-            <p>This is a simple HTML page with some basic content.</p>
+            <p>This is my sample HTML page for random content.</p>
         </div>
         <div class="box">
             <h2>Random Facts</h2>
